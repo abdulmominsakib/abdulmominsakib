@@ -26,4 +26,4 @@
 
 [instagram]: https://instagram.com/abdulmomin07
 
-[linkedin]: https://linkedin.com/in/abdulmominsakib
+[linkedin]: https://linkedin.com/in/abdul-momin-sakib
