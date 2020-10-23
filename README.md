@@ -1,15 +1,14 @@
 ### Hi there, I'm Momin - aka [Sakib][website] 👋
 
-<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
-
 ## I'm a new Flutter dev from web background!!
 
-- 🔭 I'm looking for ideas that will benefit peoples 💚
+- 👉 I'm a Self Taught developer and a Tech Enthusiast
+- 💚 Love to make applications that helps people 🧗‍♂️
+- 🔭 I love to crack problems 🔥
 - 🌱 I’m currently learning everything 🤣
-- 👉 I'm Tech Enthusiast and Self Taught
+- 🕺 I would love to work with a team
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to read history books.
+- ⚡ Fun fact: I love to read history books. 🥰
 
 ### Connect with me:
 
@@ -22,3 +21,9 @@
 
 
 [website]: https://abdulmomin.com
+
+[twitter]: https://twitter.com/abdulmominsakib
+
+[instagram]: https://instagram.com/abdulmomin07
+
+[linkedin]: https://linkedin.com/in/abdulmominsakib
