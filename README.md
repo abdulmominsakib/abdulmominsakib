@@ -1,4 +1,4 @@
-### Hi there, I'm Momin - aka [Sakib][website] 👋
+<h1 align="center"> Hi there, I'm Momin 👋</h1>
 
 ## I'm a new Flutter dev from web background!!
 
