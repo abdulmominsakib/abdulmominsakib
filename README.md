@@ -1,7 +1,5 @@
 <h1 align="center"> Hi there, I'm Momin 👋</h1>
 
-<a href="https://linkedin.com/in/abdul-momin-sakib"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
 ## I'm a new Flutter dev
 
 - 👉 I'm a Self Taught developer and a Tech Enthusiast
@@ -13,8 +11,8 @@
 
 ### Connect with me:
 
+<a href="https://linkedin.com/in/abdul-momin-sakib"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 [<img align="left" alt="abdulmomin.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="abdul-momin-sakib | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="abdulmominsakib | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="abdulmomin07 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -43,7 +41,7 @@
 <br>
 <hr>
 
-<h2> 📕 Latest Blog Posts </h2>
+<h3> 📕 Latest Blog Posts </h3>
 
 <!-- BLOG-POST-LIST:START -->
 - [Hello world!](https://abdulmomin.com/2020/10/22/hello-world/)
