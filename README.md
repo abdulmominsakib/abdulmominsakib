@@ -1,11 +1,13 @@
 <h1 align="center"> Hi there, I'm Momin 👋</h1>
 
-## I'm a new Flutter dev from web background!!
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">(https://linkedin.com/in/abdul-momin-sakib)
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fabdulmominsakib)
+
+## I'm a new Flutter dev
 
 - 👉 I'm a Self Taught developer and a Tech Enthusiast
-- 💚 Love to make applications that helps people 🧗‍♂️
-- 🔭 I love to crack problems 🔥
-- 🌱 I’m currently learning everything 🤣
+- 💚 Would Love to make applications that helps people 🧗‍♂️
+- 🌱 I’m currently learning many things 
 - 🕺 I would love to work with a team
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read history books. 🥰
