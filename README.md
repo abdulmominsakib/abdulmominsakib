@@ -1,7 +1,6 @@
 <h1 align="center"> Hi there, I'm Momin 👋</h1>
 
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">(https://linkedin.com/in/abdul-momin-sakib)
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fabdulmominsakib)
+<a href="https://linkedin.com/in/abdul-momin-sakib"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ## I'm a new Flutter dev
 
