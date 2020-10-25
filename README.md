@@ -45,6 +45,10 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hello world!](https://abdulmomin.com/2020/10/22/hello-world/)
+- [The island of saints and scholars](https://abdulmomin.com/2019/01/08/the-island-of-saints-and-scholars/)
+- [It’s Better to Remain Unseen](https://abdulmomin.com/2019/01/08/its-better-to-remain-unseen/)
+- [Finding the Right Model for a job](https://abdulmomin.com/2019/01/08/finding-the-right-model-for-a-job/)
 <!-- BLOG-POST-LIST:END -->
 
 
