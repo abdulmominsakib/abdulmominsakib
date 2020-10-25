@@ -1,4 +1,4 @@
-<img src="assets/hi.gif">
+<img src="assets/hi.gif" align="center">
 
 <h1 align="center"> Hi there, I'm Momin 👋</h1>
 
