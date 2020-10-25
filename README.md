@@ -1,4 +1,7 @@
-<img src="assets/hi.gif" style="vertical-align:middle">
+<img src="assets/hi.gif" style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;">
 
 <h1 align="center"> Hi there, I'm Momin 👋</h1>
 
