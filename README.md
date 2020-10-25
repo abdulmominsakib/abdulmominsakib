@@ -1,9 +1,6 @@
-<img src="assets/hi.gif" style="display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;">
+<img src="assets/hi.gif">
 
-<h1 align="center"> Hi there, I'm Momin 👋</h1>
+<h1> Hi there, I'm Momin 👋</h1>
 
 ## I'm a new Flutter dev
 
