@@ -42,7 +42,8 @@
 
 <br>
 <hr>
-### 📕 Latest Blog Posts
+
+<h2> 📕 Latest Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
 - [Hello world!](https://abdulmomin.com/2020/10/22/hello-world/)
