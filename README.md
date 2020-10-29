@@ -1,4 +1,4 @@
-<a target="_blank" href="https://abdulmomin.com"><img src="assets/hi.gif" align="right" width="250"></a>
+<a target="_blank" href="https://abdulmomin.com"><img src="assets/github-intro.gif" align="right" width="250"></a>
 
 <h1> Hi there, I'm Momin 👋</h1>
 
