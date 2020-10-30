@@ -48,9 +48,10 @@
 <h3> 📕 Latest Blog Posts </h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [The island of saints and scholars](https://abdulmomin.com/2019/01/08/the-island-of-saints-and-scholars/)
-- [It’s Better to Remain Unseen](https://abdulmomin.com/2019/01/08/its-better-to-remain-unseen/)
-- [Finding the Right Model for a job](https://abdulmomin.com/2019/01/08/finding-the-right-model-for-a-job/)
+- [5 Free Developer Tools that you should use](https://abdulmomin.com/5-free-developer-tools-that-you-should-use/)
+- [The island of saints and scholars](https://abdulmomin.com/the-island-of-saints-and-scholars/)
+- [It’s Better to Remain Unseen](https://abdulmomin.com/its-better-to-remain-unseen/)
+- [Finding the Right Model for a job](https://abdulmomin.com/finding-the-right-model-for-a-job/)
 <!-- BLOG-POST-LIST:END -->
 
 
