@@ -2,8 +2,6 @@
 
 <h1> Hi there, I'm Momin 👋</h1>
 
-<a target="_blank" href="https://abdulmomin.com"><img src="assets/hi.gif" align="right" width="250"></a>
-
 ## I'm a new Flutter dev
 
 - 👉 I'm a Self Taught developer and a Tech Enthusiast
@@ -12,6 +10,7 @@
 - 🕺 I would love to work with a team
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read history books. 🥰
+<a target="_blank" href="https://abdulmomin.com"><img src="assets/hi.gif" align="right" width="250"></a>
 
 ### Connect with me:
 
