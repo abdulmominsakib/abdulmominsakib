@@ -3,7 +3,6 @@
 
 ## I'm a Flutter dev
 
-- [<img align="left" alt="Flutter" width="17px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />][myWebsiteLink]I'm currently learning Flutter
 - 👉 I'm a Self Taught developer and a Tech Enthusiast
 - 💚 Would Love to: Make applications that helps people 🧗‍♂️
 - 🌱 Current focus: Improving my UI skills
