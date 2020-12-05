@@ -48,7 +48,11 @@
 <h3> 📕 Latest Blog Posts </h3>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Why you should not hate a specific library or framework!](https://abdulmomin.com/why-you-should-not-hate-a-specific-library-or-framework/)
+- [Develop Flutter Apps on low-end PC](https://abdulmomin.com/develop-flutter-apps-on-low-end-pc/)
+- [How do I develop a back end for a mobile app?](https://abdulmomin.com/how-do-i-develop-a-back-end-for-a-mobile-app/)
+- [অনলাইন কোর্স ও ভুয়া গুরু](https://abdulmomin.com/online-course-and-fake-gurus/)
+- [বাংলাদেশ এবং ফ্রি-ল্যান্সিং](https://abdulmomin.com/bangladeshandfreelancing/)
 <!-- BLOG-POST-LIST:END -->
 
 
