@@ -1,14 +1,14 @@
 <a target="_blank" href="https://abdulmomin.com"><img src="assets/hi.gif" align="right" width="250"></a>
 <h1> Hi there, I'm Momin 👋</h1>
 
-## I'm a new Flutter dev
+## I'm a Flutter dev
 
+- [<img align="right" alt="Flutter" width="17px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />][myWebsiteLink]I'm currently learning Flutter
 - 👉 I'm a Self Taught developer and a Tech Enthusiast
-- 💚 Would Love to make applications that helps people 🧗‍♂️
-- 🌱 I’m currently learning many things 
-- 🕺 I would love to work with a team
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to read history books. 🥰
+- 💚 Would Love to: Make applications that helps people 🧗‍♂️
+- 🌱 Current focus: Improving my UI skills
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to read books. 🥰
 
 <a target="_blank" href="https://abdulmomin.com"><img src="assets/github-intro.gif" align="right" width="250"></a>
 
@@ -25,15 +25,15 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />][myWebsiteLink]
+[<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />][myWebsiteLink]
 
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />][myWebsiteLink]
+[<img align="left" alt="WordPress" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />][myWebsiteLink]
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][myWebsiteLink]
 
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][myWebsiteLink]
 
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][myWebsiteLink]
+[<img align="left" alt="Figma" width="26px" src="assets/figma.png" />][myWebsiteLink]
 
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][myWebsiteLink]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][myWebsiteLink]
@@ -48,10 +48,7 @@
 <h3> 📕 Latest Blog Posts </h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Free Developer Tools that you should use](https://abdulmomin.com/5-free-developer-tools-that-you-should-use/)
-- [The island of saints and scholars](https://abdulmomin.com/the-island-of-saints-and-scholars/)
-- [It’s Better to Remain Unseen](https://abdulmomin.com/its-better-to-remain-unseen/)
-- [Finding the Right Model for a job](https://abdulmomin.com/finding-the-right-model-for-a-job/)
+
 <!-- BLOG-POST-LIST:END -->
 
 
