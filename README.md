@@ -1,11 +1,11 @@
 <a target="_blank" href="https://abdulmomin.com"><img src="assets/hi.gif" align="right" width="250"></a>
 <h1> Hi there, I'm Momin 👋</h1>
 
-## I'm a Flutter dev
+## I'm a Flutter developer
 
 - 👉 I'm a Self Taught developer and a Tech Enthusiast
 - 💚 Would Love to: Make applications that helps people 🧗‍♂️
-- 🌱 Current focus: Improving my UI skills
+- 🌱 Current focus: Make my clients happy with beautiful designs
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read books. 🥰
 
