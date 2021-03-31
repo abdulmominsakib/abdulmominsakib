@@ -40,11 +40,6 @@
 <br>
 <hr>
 
-<h3> 📕 Latest Blog Posts </h3>
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 [website]: https://abdulmomin.com
 [twitter]: https://twitter.com/abdulmominsakib
 [instagram]: https://instagram.com/abdulmomin07
