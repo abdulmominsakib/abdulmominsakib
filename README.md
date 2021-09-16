@@ -13,11 +13,11 @@
 ### Connect with me:
 
 [<img align="left" alt="abdulmomin.com" width="22px" src="assets/linkedin.png" />][linkedin]
-<a href="skype:sakib1272?chat"><img align="left" alt="abdulmominsakib | Skype" width="22px" src="assets/skype-icon.png" /></a>
+<a target="_blank" href="skype:sakib1272?chat"><img align="left" alt="abdulmominsakib | Skype" width="22px" src="assets/skype-icon.png" /></a>
 
 <br>
 
-[or visit here 👉 .. abdulmomin.com](https://abdulmomin.com)
+[👉 \_\_ abdulmomin.com](https://abdulmomin.com)
 
 <br />
 
