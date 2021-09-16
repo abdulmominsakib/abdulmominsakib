@@ -13,12 +13,15 @@
 ### Connect with me:
 
 [<img align="left" alt="abdulmomin.com" width="22px" src="assets/linkedin.png" />][linkedin]
-[<img align="left" alt="abdulmomin.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="abdulmominsakib | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<a href="skype:sakib1272?chat"><img align="left" alt="abdulmominsakib | Skype" width="22px" src="assets/skype-icon.png" /></a>
+
+<br>
+
+[or visit here 👉 .. abdulmomin.com](https://abdulmomin.com)
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools I use:
 
 [<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />][mywebsitelink]
 
@@ -40,8 +43,6 @@
 <br>
 <hr>
 
-[website]: https://abdulmomin.com
-[twitter]: https://twitter.com/abdulmominsakib
 [instagram]: https://instagram.com/abdulmomin07
 [linkedin]: https://linkedin.com/in/abdul-momin-sakib
 [mywebsitelink]: https://abdulmomin.com
