@@ -2,10 +2,11 @@
 
 ## I'm a Flutter developer
 
-- 👉 I'm a Self Taught developer and a Tech Enthusiast
+- ✌️ Active in: Coding stuff
+- ✏️ Learning: Data Science & UI UX
 - 💚 Would Love to: Make applications that helps people 🧗‍♂️
 - 🌱 Current focus: Improving health and planting trees.
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read books. 🥰
 
 <a target="_blank" href="https://abdulmomin.com"><img src="assets/github-intro.gif" align="right" width="250"></a>
