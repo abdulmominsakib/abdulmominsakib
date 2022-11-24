@@ -1,24 +1,24 @@
 <h1> Hi there, I'm Momin 👋</h1>
 
-## I'm a Flutter developer
+## I'm a Mobile App Developer (Flutter, Swift)
 
 - ✌️ Active in: Coding stuff
-- ✏️ Learning: Data Science & UI UX
+- ✏️ Learning: UI UX
 - 💚 Would Love to: Make applications that helps people 🧗‍♂️
 - 🌱 Current focus: Improving health and planting trees.
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to read books. 🥰
+- 🥅 2023 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to listen podcasts 🥰
 
-<a target="_blank" href="https://abdulmomin.com"><img src="assets/github-intro.gif" align="right" width="250"></a>
+<a target="_blank" href="https://momin.pro"><img src="assets/github-intro.gif" align="right" width="250"></a>
 
 ### Connect with me:
 
-[<img align="left" alt="abdulmomin.com" width="22px" src="assets/linkedin.png" />][linkedin]
+[<img align="left" alt="momin.pro" width="22px" src="assets/linkedin.png" />][linkedin]
 <a target="_blank" href="skype:sakib1272?chat"><img align="left" alt="abdulmominsakib | Skype" width="22px" src="assets/skype-icon.png" /></a>
 
 <br>
 
-[👉 \_\_ abdulmomin.com](https://abdulmomin.com)
+[👉 \_\_ momin.pro](https://momin.pro)
 
 <br />
 
@@ -58,4 +58,4 @@
 
 [instagram]: https://instagram.com/abdulmomin07
 [linkedin]: https://linkedin.com/in/abdul-momin-sakib
-[mywebsitelink]: https://abdulmomin.com
+[mywebsitelink]: https://momin.pro
