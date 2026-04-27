@@ -20,9 +20,7 @@ _Flutter & iOS · Full-Stack · Bangladesh 🇧🇩_
 
 <div align="center">
 
-_"Debugging is a science. Prompt engineering is astrology."_
-
-_"Humans write bugs. AI writes them faster."_
+_"Human intelligence is much more than predicting the next word"_
 
 [Email](mailto:mdmomin322@gmail.com) · [WhatsApp](https://wa.me/8801581721600)
 
